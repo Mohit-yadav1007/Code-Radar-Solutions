@@ -1,5 +1,5 @@
 #include <stdio.h>
-it main(){
+int main(){
     int a;
     scanf("%d", &a);
     if (a>=18){
