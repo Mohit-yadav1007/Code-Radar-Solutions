@@ -13,6 +13,6 @@ int main(){
         }
 
     }
-    printf("\n%d",max);
+    printf("%d",max);
     return 0;
 }
