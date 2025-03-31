@@ -6,9 +6,9 @@ int main(){
     for(i=0;i<t;i++){
         scanf("%d",&arr[i]);
     }
-    for(i=0;i<t;i++){
-        printf("%d",arr[i]);
-    }
+    // for(i=0;i<t;i++){
+    //     printf("%d",arr[i]);
+    // }
     int max=0;
     for(i=0;i<t;i++){
         if(max<arr[i]){
